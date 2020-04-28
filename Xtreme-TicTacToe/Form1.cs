@@ -41,14 +41,6 @@ namespace Xtreme_TicTacToe
 
         }
 
-        //private void testfields()
-        //{
-        //    foreach (Control btn in field1)
-        //    {
-        //        btn.BackColor = System.Drawing.Color.Blue;
-        //    }
-        //}
-
         private void button_Click(object sender, EventArgs e)
         {
             Control btn = sender as Control;
